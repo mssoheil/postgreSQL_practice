@@ -1,0 +1,1 @@
+SELECT MAX(amount_billed) as max_billed, MAX(amount_tipped) AS max_tipped FROM bookings;
