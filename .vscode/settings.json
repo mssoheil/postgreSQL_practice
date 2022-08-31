@@ -59,6 +59,16 @@
       "name": "gym",
       "database": "gym",
       "username": "postgres"
+    },
+    {
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 5432,
+      "askForPassword": true,
+      "driver": "PostgreSQL",
+      "name": "indexes",
+      "database": "indexes",
+      "username": "postgres"
     }
   ]
 }
